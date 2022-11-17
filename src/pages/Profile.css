@@ -1,0 +1,14 @@
+.containerTitle{
+    display: flex;
+    justify-content: center;
+}
+
+.textTitle{
+    color: white;
+}
+
+.containerProfileContent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

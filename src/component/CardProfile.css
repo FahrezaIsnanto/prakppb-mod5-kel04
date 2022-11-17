@@ -1,0 +1,38 @@
+.containerProfile{
+    margin-top: 10px;
+    padding: 20px 5px;
+    background-color: #ab57cc;
+    border-radius: 12px;
+    box-shadow: 10px 10px 10px rgba(0,0,0,.5);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    width: 60%;
+    height: 120px;
+}
+
+.avatarProfile{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.usernameProfile{
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+
+.emailProfile{
+    margin-top: 3px;
+    font-size: 15px;
+}
+
+.nameProfile{
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.blogProfile{
+    font-size: 12px;
+}
